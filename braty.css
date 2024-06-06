@@ -1,0 +1,21 @@
+body {
+    background-color: #8ace00;
+    margin: 0;
+    padding: 0;
+    
+}
+
+h1 {
+    font-size: 5em;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-rendering: optimizeSpeed;
+    font-family: "Arial Narrow", Arial, sans-serif;
+    font-stretch: condensed;
+    text-shadow: 2px 2px 2px #2a4700, 0 0 1em #2a4700;
+    -webkit-text-stroke: 1px black;
+
+
+}
